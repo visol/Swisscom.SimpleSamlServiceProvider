@@ -7,7 +7,7 @@ namespace Swisscom\SimpleSamlServiceProvider\Security\Authentication\Token;
 
 use SimpleSAML\Auth\Simple;
 use TYPO3\Flow\Annotations as Flow;
-use TYPO3\Flow\Object\DependencyInjection\DependencyProxy;
+use TYPO3\Flow\ObjectManagement\DependencyInjection\DependencyProxy;
 use TYPO3\Flow\Security\Authentication\Token\AbstractToken;
 
 
